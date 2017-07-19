@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Blog
+Launched in 2017 as a place to collect thoughts and findings on Computer Science, software development, and DevOps topics.
+
+### Author
+At the blog creation moment, I already worked in enterprise IT for 7 years as System Administrator and DevOps Engineer.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[ievgen.iezhachenko@gmail.com](mailto:ievgen.iezhachenko@gmail.com)

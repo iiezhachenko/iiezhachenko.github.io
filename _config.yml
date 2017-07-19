@@ -6,7 +6,7 @@
 name: Ievgen Iezhachenko
 
 # Short bio or description (displayed in the header)
-description: Dev/Ops 
+description: Computer Science tales from caffeinated Owl
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/7869381?v=4
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
