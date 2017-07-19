@@ -120,16 +120,38 @@ img {
   color: $gray;
 }
 
-table, td, th {
-  border: 1px solid black;
+pre {
+  text-align: left;
 }
-th, td {
-  padding: 5px;
-  text-align: center;
+
+table {
+  td, th {
+    vertical-align: middle;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+  }
+  th {
+    font-weight: bold;
+    background-color: #D3D3D3;
+  }
 }
-th {
-  font-weight: bold;
-  background-color: #D3D3D3;
+
+table .aligner {
+  td, th {
+    vertical-align: middle;
+    border: none;
+    padding: 5px;
+    text-align: center;
+  }
+  th {
+    // font-weight: bold;
+    background-color: none;
+  }
+}
+
+.truth-table {
+  width: 50px;
 }
 
 // Specify the color of the selection
